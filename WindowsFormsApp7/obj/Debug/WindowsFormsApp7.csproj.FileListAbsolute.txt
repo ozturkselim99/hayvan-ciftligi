@@ -1,0 +1,20 @@
+C:\Users\SELİM\Source\Repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\SELİM\Source\Repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\SELİM\Source\Repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\SELİM\Source\Repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+C:\Users\SELİM\Source\Repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\SELİM\Source\Repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\SELİM\Source\Repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\SELİM\Source\Repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\SELİM\Source\Repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\SELİM\Source\Repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+C:\Users\SELİM\Desktop\NDP PROJE\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\SELİM\Desktop\NDP PROJE\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\SELİM\Desktop\NDP PROJE\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\SELİM\Desktop\NDP PROJE\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+C:\Users\SELİM\Desktop\NDP PROJE\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\SELİM\Desktop\NDP PROJE\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\SELİM\Desktop\NDP PROJE\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\SELİM\Desktop\NDP PROJE\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\SELİM\Desktop\NDP PROJE\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\SELİM\Desktop\NDP PROJE\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
